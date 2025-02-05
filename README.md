@@ -54,6 +54,30 @@ The purpose of this project is to simplify library management through a digital 
 
 ---
 
+## ⚙️ Installation and Setup
+
+To get started with the project, follow these steps:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/NajibHossain49/LibraryLink.git
+
+   cd LibraryLink
+   
+   ```
+
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+3. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+---
+
 ## npm Packages
 - **react-router-dom**: Routing in React.
 - **react-toastify**: Toast notifications.
